@@ -1,0 +1,11 @@
+* =panim-lua=
+
+Template for writing [[https://github.com/tsoding/panim][panim]] plugins in Lua.
+
+** Usage
+
+#+begin_src sh
+  $ git submodule update --init --recursive
+  $ make all
+  $ env -C ./panim build/panim ../build/libpluglua.so
+#+end_src

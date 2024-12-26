@@ -1,0 +1,4 @@
+/.direnv/
+/build/
+lua-5.4.7/src/*.o
+lua-5.4.7/src/*.a
